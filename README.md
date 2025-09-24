@@ -21,11 +21,16 @@ LinkedIn: [linkedin.com/in/harini-arumugam-22172921b](http://linkedin.com/in/har
 
 ## Featured Projects
 
-* Bharatanatyam Mudras Hand Gesture Recognizer - Real-time mudra classification with MediaPipe + scikit-learn (89% accuracy)
-* Immersion (iOS) - AI-powered Spanish language learning app using GPT-4 + Google Translate APIs
-* Course Determiner - Django tool to streamline degree planning and detect class overlaps
-* OnBoard - Flask web app with graph algorithms for local transit booking
-* Maze Game - Procedural maze generation in C++ with Prim’s algorithm
+* Bharatanatyam Mudras Hand Gesture Recognizer – Real-time mudra classification with MediaPipe + scikit-learn (89% accuracy)
+* Immersion (iOS) – AI-powered Spanish language learning app using GPT-4 + Google Translate APIs
+* Alleviate – Autism Support App – Mobile app with interactive games and sensory tools (Technovation U.S. Winner & Global Finalist)
+* OnBoard – Flask web app with graph algorithms for unified local transit booking
+* Course Determiner – Django tool to streamline degree planning and detect class overlaps
+* Maze Game – Procedural maze generation in C++ with Prim’s algorithm
+* Infinite Matrix – Unreal Engine prototype with enemy packs, health/score systems, and shooting mechanics
+* Level Design – Unreal Engine levels with collectibles, score persistence, and playtested pacing
+* Escape Room – Unreal Engine escape-room game with puzzles, patrolling enemy, and inventory system
+* Code Future – Vue.js navigation UI and workshop content for nonprofit coding education
 
 ## Education
 
@@ -35,7 +40,8 @@ University of Illinois Urbana-Champaign
 
 Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (WiCS), Research Assistant (Crowd Dynamics Lab)
 
-
-
+<br>
+<br>
+<br>
 
 Open to opportunities that let me combine technical problem-solving with creativity, collaboration, and continuous learning.

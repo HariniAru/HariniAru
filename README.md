@@ -3,6 +3,7 @@
 I’m a software engineer with experience in full-stack development, testing, and building scalable applications. I’m especially interested in integrating AI/ML into real-world systems to create practical, user-focused solutions.
 
 Portfolio: [hariniarumugam.pages.dev](http://hariniarumugam.pages.dev)
+
 LinkedIn: [linkedin.com/in/harini-arumugam-22172921b](http://linkedin.com/in/harini-arumugam-22172921b)
 
 ## What I’m Working On

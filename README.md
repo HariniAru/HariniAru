@@ -42,6 +42,5 @@ Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (Wi
 
 <br>
 <br>
-<br>
 
 Open to opportunities that let me combine technical problem-solving with creativity, collaboration, and continuous learning.

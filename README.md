@@ -32,6 +32,7 @@ LinkedIn: [linkedin.com/in/harini-arumugam-22172921b](http://linkedin.com/in/har
 University of Illinois Urbana-Champaign
 * Master of Computer Science (2024 - Current)
 * Bachelor of Science in Computer Science (2021 - 2024)
-* Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (WiCS), Research Assistant (Crowd Dynamics Lab)
+
+Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (WiCS), Research Assistant (Crowd Dynamics Lab)
 
 Open to opportunities that let me combine technical problem-solving with creativity, collaboration, and continuous learning.

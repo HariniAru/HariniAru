@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Harini!
 
-<!--
-**HariniAru/HariniAru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer with experience in full-stack development, testing, and building scalable applications. I’m especially interested in integrating AI/ML into real-world systems to create practical, user-focused solutions.
 
-Here are some ideas to get you started:
+Portfolio: [hariniarumugam.pages.dev](http://hariniarumugam.pages.dev)
+LinkedIn: [linkedin.com/in/harini-arumugam-22172921b](http://linkedin.com/in/harini-arumugam-22172921b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Working On
+
+* Designing and developing secure, accessible web applications used by diverse audiences
+* Exploring AI-driven tools for conversational learning, computer vision, and real-time feedback
+* Expanding my portfolio with projects at the intersection of web development, AI, and interactive design
+
+## Technical Skills
+
+* Languages: Python, JavaScript, TypeScript, C++, Swift
+* Frameworks/Tools: Django, Flask, React, Laravel, Angular, SQL, AWS
+* Focus Areas: AI/ML, Computer Vision, API Integration, Automated Testing, CI/CD
+* Strengths: Clear communication, collaborative teamwork, problem solving, adaptability
+
+## Featured Projects
+
+* Bharatanatyam Mudras Hand Gesture Recognizer - Real-time mudra classification with MediaPipe + scikit-learn (89% accuracy)
+* Immersion (iOS) - AI-powered Spanish language learning app using GPT-4 + Google Translate APIs
+* Course Determiner - Django tool to streamline degree planning and detect class overlaps
+* OnBoard - Flask web app with graph algorithms for local transit booking
+* Maze Game - Procedural maze generation in C++ with Prim’s algorithm
+
+## Education
+
+University of Illinois Urbana-Champaign
+* Master of Computer Science (2024 - Current)
+* Bachelor of Science in Computer Science (2021 - 2024)
+* Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (WiCS), Research Assistant (Crowd Dynamics Lab)
+
+Open to opportunities that let me combine technical problem-solving with creativity, collaboration, and continuous learning.

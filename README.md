@@ -35,4 +35,7 @@ University of Illinois Urbana-Champaign
 
 Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (WiCS), Research Assistant (Crowd Dynamics Lab)
 
+
+
+
 Open to opportunities that let me combine technical problem-solving with creativity, collaboration, and continuous learning.

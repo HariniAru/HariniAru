@@ -1,12 +1,12 @@
 # Hi, I’m Harini!
 
-I’m a software engineer who enjoys full-stack development, testing, and building applications that are practical and easy to use. I’m especially interested in bringing AI/ML into real-world systems in ways that keep people in control.
+I’m a software engineer who enjoys building applications that are practical and easy to use. I’m especially interested in bringing AI/ML into real-world systems in ways that keep people in control.
 
 [Portfolio](http://hariniarumugam.pages.dev) · [LinkedIn](http://linkedin.com/in/harini-arumugam-22172921b)
 
 ## What I’m working on
 
-I’m building AI tools that solve real, everyday problems, and I’m especially interested in **education** and **health**. I like tools that put the person first: the AI does the heavy lifting, and a human stays in the loop to review, decide, and keep it their own.
+I’m building AI tools that solve real, everyday problems, and I’m especially interested in education and health. I like tools that put the person first: the AI does the heavy lifting, and a human stays in the loop to review, decide, and keep it their own.
 
 That thread runs through my projects:
 
@@ -48,7 +48,7 @@ That thread runs through my projects:
 
 **University of Illinois Urbana-Champaign**
 
-* Master of Computer Science (2024 – current)
+* Master of Computer Science (2024 – 2026)
 * Bachelor of Science in Computer Science (2021 – 2024)
 
 Involvement: Outreach & Historian Chair (SWE Illinois), Infrastructure Chair (WiCS), Research Assistant (Crowd Dynamics Lab)

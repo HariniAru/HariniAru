@@ -2,7 +2,7 @@
 
 I’m a software engineer who enjoys building applications that are practical and easy to use. I’m especially interested in bringing AI/ML into real-world systems in ways that keep people in control.
 
-[Portfolio](http://hariniarumugam.pages.dev) · [LinkedIn](http://linkedin.com/in/harini-arumugam-22172921b)
+[Portfolio](https://hariniarumugam.pages.dev) · [LinkedIn](https://www.linkedin.com/in/hariniarumugam/)
 
 ## What I’m working on
 
@@ -10,9 +10,9 @@ I’m building AI tools that solve real, everyday problems, and I’m especially
 
 That thread runs through my projects:
 
-* **Education:** [Immersion](https://github.com/HariniAru/immersion.ai) for language learning, the Bharatanatyam gesture recognizer for practicing and preserving a classical dance form, and Course Determiner for degree planning.
+* **Education:** Immersion for language learning, the Bharatanatyam gesture recognizer for practicing and preserving a classical dance form, and Course Determiner for degree planning.
 * **Health and wellbeing:** Alleviate, an autism support app with interactive games and sensory tools, and [Ghost Texter](https://github.com/HariniAru/ghost-texter), which cuts the noise out of messaging so replying feels less overwhelming.
-* **Human-in-the-loop AI:** Ghost Texter and the [GenAI Case Review](https://github.com/HariniAru/GenAI-Assisted-Case-Review-and-Redaction-Platform) platform both draft or suggest, then wait for a person to approve.
+* **Human-in-the-loop AI:** Ghost Texter and the [GenAI-Assisted Case Review and Redaction Platform](https://github.com/HariniAru/GenAI-Assisted-Case-Review-and-Redaction-Platform) both draft or suggest, then wait for a person to approve.
 * **Practical, accessible apps:** from OnBoard’s local transit booking to my interactive portfolio, I aim for software that is secure, accessible, and easy for diverse audiences to use.
 
 ## Featured projects
@@ -20,7 +20,7 @@ That thread runs through my projects:
 ### AI-assisted tools
 
 * **[Ghost Texter](https://github.com/HariniAru/ghost-texter)** – A local macOS app that cuts the noise out of messaging. It shows only the iMessages you haven't replied to yet, summarizes each chat, and drafts a reply in your own voice with a local model. You edit it, and nothing sends until you approve the exact text. Built with Python, FastAPI, LangGraph, React/TypeScript, SQLite, and Ollama.
-* **[GenAI Case Review](https://github.com/HariniAru/GenAI-Assisted-Case-Review-and-Redaction-Platform)** – A case review and redaction platform on synthetic call-center records, with a reviewer-controlled AI workflow: AI output is advisory, and each redaction and summary needs separate approval. Built with FastAPI, SQLAlchemy, React, and Hugging Face.
+* **[GenAI-Assisted Case Review and Redaction Platform](https://github.com/HariniAru/GenAI-Assisted-Case-Review-and-Redaction-Platform)** – A case review and redaction platform on synthetic call-center records, with a reviewer-controlled AI workflow: AI output is advisory, and each redaction and summary needs separate approval. Built with FastAPI, LangGraph, RAG (pgvector), React, and Hugging Face.
 * **[Bharatanatyam Mudras Hand Gesture Recognizer](https://github.com/HariniAru/Bharatanatyam-Mudras-Hand-Gesture-Recognizer)** – Real-time mudra classification with MediaPipe, OpenCV, and scikit-learn (89% accuracy, F1 0.88).
 * **Immersion (iOS)** – AI-powered Spanish learning app with real-time conversation and feedback, using GPT-4 and Google Translate APIs.
 
